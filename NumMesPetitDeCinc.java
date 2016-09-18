@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Otro
 public class NumMesPetitDeCinc {
 
     public static void main(String... args) {
