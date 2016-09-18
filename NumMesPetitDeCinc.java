@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumMesPetitDeCinc {
 
     public static void main(String... args) {
-        // Declaro e inicializo la clase Scanner
+        // Cambio el comentario
         Scanner in = new Scanner(System.in);
         int min = Integer.MIN_VALUE;
         int max = Integer.MAX_VALUE;
@@ -13,7 +13,7 @@ public class NumMesPetitDeCinc {
             min = aux < min ? aux : min;
             max = aux > max ? aux : max;
         }
-
+        
         System.out.println(min);
     }
 
